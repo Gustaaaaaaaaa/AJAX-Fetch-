@@ -1,0 +1,42 @@
+body {
+    background-color: white;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: "Lucida Sans", sans-serif;
+    padding: 50px 200px;
+    margin: 0;
+}
+
+.titulo-destaque {
+    background-color: #c4af93;
+    color: white;
+    display: inline-block;
+    padding: 20px 50px;
+}
+
+.titulo-destaque:hover {
+    background-color: black;
+}
+
+.conteudo {
+    font-family: Arial, sans-serif;
+    text-align: left;
+    color: black;
+}
+
+p {
+    text-indent: 20px;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.lista-justificada li {
+    text-align: justify;
+    margin-bottom: 10px;
+    list-style-type: decimal;
+}
